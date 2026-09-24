@@ -1,52 +1,39 @@
-# AI usage
+# AI Usage Record
 
-This project was built with AI assistance. This file is the record of it. It is
-graded as the finals badge, and it is worth 100 points.
+**Project:** UniSchedule
 
-Start it in week 1 and keep it up as you go. The commit history of this file is
-part of the evidence: a file written all at once the night before the deadline
-looks exactly like what it is.
+## Purpose
 
-## 1. How I used AI
+AI tools are used as a development and learning aid. They may help explain Flutter concepts, suggest implementation approaches, review code structure, troubleshoot errors, and improve documentation.
 
-At least six entries. One per real use. Every entry needs a commit link.
+The project author remains responsible for understanding, testing, modifying, and integrating the final work.
 
-### YYYY-MM-DD - short title
+## Current AI use
 
-- **Tool:**
-- **What I asked for:**
-- **What it gave back:**
-- **What I kept, what I changed, and why:**
-- **Commit:** https://github.com/YOUR-USERNAME/YOUR-REPO/commit/SHA
+| Stage | AI use | How the output was handled |
+|---|---|---|
+| Project planning | Brainstormed the UniSchedule concept, screens, features, and manageable scope. | The feature list was reviewed and reduced to a realistic MVP. |
+| Flutter planning | Used explanations for widgets, navigation, state, forms, lists, and reusable components. | Concepts are used as learning references and should be checked against the actual implementation. |
+| Design system | Organized the color palette, typography, spacing, and reusable component plan. | Decisions were consolidated into the UniSchedule design system. |
+| Documentation | Drafted and organized README documentation. | The README must be updated whenever the implementation differs from the plan. |
+| Troubleshooting | May be used to explain compiler errors, layout problems, or Flutter behavior. | Solutions are tested locally before being accepted. |
 
-## 2. Where the AI got it wrong
+## Rules for future AI use
 
-Three cases. Be specific. If you write that the AI was never wrong, this section
-scores zero.
+1. Never paste real passwords, API keys, tokens, or secrets into an AI tool.
+2. Do not assume generated code is correct without testing it.
+3. Understand important code before submitting it.
+4. Record material AI contributions as the project develops.
+5. Keep this file current.
+6. Credit substantial AI-assisted work honestly when required by the course.
 
-### Case 1 - short title
+## Future entry template
 
-- **What it gave me:**
-- **What was wrong with it:**
-- **What I did instead:**
-- **Commit:** https://github.com/YOUR-USERNAME/YOUR-REPO/commit/SHA
-
-## 3. Who wrote what
-
-At least a fifth of this project is code you wrote yourself. Name it, and explain
-it in your own words.
-
-> Group projects: give each member their own heading below, and use your GitHub
-> handle as the heading. You are graded on your own section.
-
-### Written by me
-
-- **File:**
-- **Commit:**
-- **What it does and why it is built this way:**
-
-### The AI-written part I understand best
-
-- **File:**
-- **Commit:**
-- **What it does and why we kept it:**
+```text
+Date:
+Task:
+AI tool:
+What it suggested:
+What I changed:
+How I tested it:
+```
