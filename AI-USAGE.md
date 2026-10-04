@@ -108,7 +108,7 @@ I maintained our main entry file. I kept all the starter template comments intac
 This file holds the data model for homework items. It defines required fields like `id`, `title`, `subject`, and `dueDate`, along with a default `isCompleted = false` flag. We kept the AI's version because it is straightforward Dart class boilerplate. I fully understand how constructor initialization works, and having this typed structure makes passing data into our lists reliable.
 
 
-#### Written by me Robyn Desiree Gonzales
+#### Written by Robyn Desiree Gonzales
 
 - **File:** `lib/widgets/assignment_card.dart`
 - **Commit:** [github.com/robyndgonzales/final-project-robyndgonzales.git](https://github.com/robyndgonzales/final-project-robyndgonzales/blob/main/lib/widgets/assignment_card.dart)
