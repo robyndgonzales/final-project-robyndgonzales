@@ -1,0 +1,11 @@
+{
+  "name": "UniSchedule",
+  "short_name": "UniSchedule",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#003E7E",
+  "description": "A minimalist student schedule and academic planner.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
